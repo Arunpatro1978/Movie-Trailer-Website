@@ -1,4 +1,4 @@
-#Movie Trailer Website
+# Movie Trailer Website
 
 A Python project to generate website with movies poster and links to their trailers.
 
@@ -9,7 +9,7 @@ A Python project to generate website with movies poster and links to their trail
 - Python version 3.7.1
 - Web Browser IE 10.* chrome 56.*
 
-##How to Run Project
+## How to Run Project
 
 clone/download the project to local drive.
 
